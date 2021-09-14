@@ -8,14 +8,14 @@
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="<?php echo constant('URL') ?>public/plugins/css/all.min.css">
+  <link rel="stylesheet" href="public/plugins/css/all.min.css">
   <!-- SweetAlert2 -->
-  <link rel="stylesheet" href="<?php echo constant('URL') ?>public/plugins/css/bootstrap-4.min.css">
+  <link rel="stylesheet" href="public/plugins/css/bootstrap-4.min.css">
   <!-- DataTables -->
-  <link rel="stylesheet" href="<?php echo constant('URL') ?>public/plugins/css/dataTables.bootstrap4.min.css">
-  <link rel="stylesheet" href="<?php echo constant('URL') ?>public/plugins/css/responsive.bootstrap4.min.css">
+  <link rel="stylesheet" href="public/plugins/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="public/plugins/css/responsive.bootstrap4.min.css">
   <!-- Tempusdominus Bootstrap 4 -->
-  <link rel="stylesheet" href="<?php echo constant('URL') ?>public/plugins/css/tempusdominus-bootstrap-4.min.css">
+  <link rel="stylesheet" href="public/plugins/css/tempusdominus-bootstrap-4.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="<?php echo constant('URL') ?>public/plugins/css/adminlte.min.css">
+  <link rel="stylesheet" href="public/plugins/css/adminlte.min.css">
 </head>
